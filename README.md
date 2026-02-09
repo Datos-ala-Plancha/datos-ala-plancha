@@ -1,5 +1,8 @@
-<h1 align="center">Hola 👋, soy Edilberto Madrigal</h1>
-<h3 align="center">Científico de datos</h3>
+<h1 align="center">EDILBERTO MADRIGAL</h1>
+<h3 align="center">{ Científico de datos }</h3>
+
+# 💫 About Me:
+¡Hola y bienvenido/a a mi perfil de GitHub!<br>
 
 - 🤝 Trabajo como freelance **para distintas agencias**
 - 📫 si deseas contactarme **data.analista@outlook.com**
