@@ -5,16 +5,12 @@
 <h1 align="center">EDILBERTO MADRIGAL</h1>
 <h3 align="center">Científico de Datos | Analista de Datos | Visualización de Datos</h3>
 
----
-
 ## 💫 Sobre Mí:
 ¡Hola! 👋 Soy un científico de datos apasionado por transformar datos en insights accionables.  
 - 🤝 Trabajo como freelance **para distintas agencias**  
 - 📊 Especializado en **análisis predictivo, visualización de datos y automatización de reportes**  
 - 📫 Contáctame: **data.analista@outlook.com**  
 - 🌱 Actualmente explorando **modelos de machine learning para optimización de procesos**
-
----
 
 ## 🌐 Redes Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/emadrigalm) 
